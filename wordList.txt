@@ -132,7 +132,6 @@ symphony
 talisman
 tessellated
 tranquility
-vestige
 zenith
 ugly
 cacophony
