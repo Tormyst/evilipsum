@@ -3,7 +3,7 @@ import random
 
 importFile = 'wordList.txt'
 
-if sys.argv.count < 1:
+if len(sys.argv) < 2:
     maxLines = 20
 else:
     maxLines = int(sys.argv[1])
